@@ -13,4 +13,6 @@ Medialab-Prado quiere abrir las puertas a la presencia virtual en su centro. Par
 
 Medialab-Prado, a través del Laboratorio de Inteligencia Colectiva para la Participación Democrática, se propone construir un Robot open-source que pueda usarse para este experimento y posteriormente facilite la participación de cualquier invitado al centro sin la necesidad de viajar. Para hacer realidad esta idea invitamos a makers, diseñadoras, robots, hackers y cualquier persona que pueda estar interesada en el diseño y la construcción del prototipo los próximos meses. 
 
+Si tienes cualquier duda o consulta puedes escribir un correo a: participa[arroba]medilab-prado.es
+
 
